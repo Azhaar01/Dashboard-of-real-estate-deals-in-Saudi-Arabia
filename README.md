@@ -9,14 +9,28 @@ The dashboard contains:
 
 2 Donut charts, the first displays the total number of properties by property classification and the other by property type
 
+![Donut chart](https://github.com/Azhaar01/Dashboard-of-real-estate-deals-in-Saudi-Arabia/blob/main/img/Donut-Chart.png)
+
 2 stacked bar charts, the first showing total area by neighborhood and containing a card containing total area, and the second displaying average prices by neighborhood and containing a card containing average prices.
+
+![stacked bar charts](https://github.com/Azhaar01/Dashboard-of-real-estate-deals-in-Saudi-Arabia/blob/main/img/stacked-bar-chart.png)
 
 A table containing the city, neighborhood, average prices, total area, and total number of properties by month
 
+![table](https://github.com/Azhaar01/Dashboard-of-real-estate-deals-in-Saudi-Arabia/blob/main/img/Table.png)
+
 A map containing the total number of properties by region
+
+![map](https://github.com/Azhaar01/Dashboard-of-real-estate-deals-in-Saudi-Arabia/blob/main/img/Map.png)
 
 A line chart displays the total number of properties by month
 
+![line chart](https://github.com/Azhaar01/Dashboard-of-real-estate-deals-in-Saudi-Arabia/blob/main/img/Line-Chart.png)
+
 3 cards containing the number of neighborhoods, estates and cities
 
+![cards](https://github.com/Azhaar01/Dashboard-of-real-estate-deals-in-Saudi-Arabia/blob/main/img/Cards.png)
+
 A Slicer allows the user to search in the city and neighborhood in which he wants to know the status of real estate
+
+![slicer](https://github.com/Azhaar01/Dashboard-of-real-estate-deals-in-Saudi-Arabia/blob/main/img/Slicer.png)
