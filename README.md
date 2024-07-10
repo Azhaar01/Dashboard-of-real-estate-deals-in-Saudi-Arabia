@@ -15,6 +15,8 @@ A table containing the city, neighborhood, average prices, total area, and total
 
 A map containing the total number of properties by region
 
+A line chart displays the total number of properties by month
+
 3 cards containing the number of neighborhoods, estates and cities
 
-1 Slicer allows the user to search in the city and neighborhood in which he wants to know the status of real estate
+A Slicer allows the user to search in the city and neighborhood in which he wants to know the status of real estate
